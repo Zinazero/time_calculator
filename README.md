@@ -1,0 +1,1 @@
+# A program that calculates the time based on a start time in the 12-hour clock format (ending in AM or PM) and a duration to add to it. Users can optionally specify a day of the week, and the program will return what day it is after the added duration. This program was produced as part of the Scientific Computing with Python course on freeCodeCamp.org. Created by Jacob Hexamer.
